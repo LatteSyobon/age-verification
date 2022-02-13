@@ -26,7 +26,7 @@ const Home: NextPage = () => {
         <p>year of birth - 生まれた年</p><ComboBoxYears></ComboBoxYears>
         <p>month of birth - 生まれた月</p><ComboBoxMonths></ComboBoxMonths>
         <p>day of birth - 生まれた日</p><ComboBoxDays></ComboBoxDays>
-        <p>Press this button here, and it'll tell you your age. - ここのボタンを押すと年齢がわかるよ</p>
+        <p>Press this button here, and it&#39;ll tell you your age. - ここのボタンを押すと年齢がわかるよ</p>
         <button>Verification! - 確認!</button>
         <div className={styles.grid}>
         </div>
